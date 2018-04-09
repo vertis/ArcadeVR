@@ -1,0 +1,9 @@
+Temp
+*.csproj
+Library
+*.pdb
+*.sln
+*.userprefs
+*.app
+builds
+*.exe
